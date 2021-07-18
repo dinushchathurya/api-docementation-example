@@ -1,0 +1,21 @@
+{
+    "name": "Sample API documentation",
+    "description": "Documentation for the REST api",
+    "title": "ApiDocs Example API documentation",
+    "url": "http://localhost:3000",
+    "sampleUrl": "http://localhost:3000",
+    "header": {
+        "title": "Introduction",
+        "filename": "header.md"
+    },
+    "footer": {
+        "title": "Naming convention",
+        "filename": "footer.md"
+    },
+    "template": {
+        "forceLanguage": "en",
+        "withCompare": true,
+        "withGenerator": true,
+        "aloneDisplay": false
+    }
+}
